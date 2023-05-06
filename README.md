@@ -8,6 +8,13 @@ i'm LouisDevBE
 - 🔭 I’m currently working on projects
 - 🌱 I’m currently learning more programing languages
 
+##Programing languages
+
+- PHP (laravel)
+- HTML, CSS, JS
+- Java (minecraft plugin)
+- JS with frameworks
+
 ### stats:
 
 ![LouisDevBE GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisDevBE)
