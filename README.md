@@ -8,7 +8,7 @@ i'm Louis
 - 🔭 I’m currently working on projects
 - 🌱 I’m currently learning more programing languages
 
-##Programing languages
+## Programing languages
 
 - Java 
 - C#
