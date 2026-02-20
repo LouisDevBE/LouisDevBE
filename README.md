@@ -1,7 +1,7 @@
   ### Hello 👋
 
 
-i'm LouisDevBE
+i'm Louis
 
 ### about me:
 
@@ -10,13 +10,8 @@ i'm LouisDevBE
 
 ##Programing languages
 
-- PHP (laravel)
-- HTML, CSS, JS
-- Java (minecraft plugin)
-- JS with frameworks
-
-### stats:
-
-![LouisDevBE GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisDevBE)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LouisDevBE&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+- Java 
+- C#
+- JavaScript
+- PHP
+- Siemens PLC
